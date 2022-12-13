@@ -12,7 +12,7 @@
   You can preview the final result in this gif.
 </div><br>
 
-* You can play this game i developed through this link: https://editor.p5js.org/MyNameIsGustavo/full/i77a3UjWE
+* You can play this game through this link: https://editor.p5js.org/MyNameIsGustavo/full/i77a3UjWE
 
 * Have a good time!🥳🕹
 
